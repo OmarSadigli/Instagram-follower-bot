@@ -3,9 +3,9 @@ from selenium.common.exceptions import ElementClickInterceptedException
 import time
 
 CHROME_DRIVER_PATH = "C:\\Development\\chromedriver.exe"
-SIMILAR_ACCOUNT = "python.learning"
-USERNAME = "omipythonista"
-PASSWORD = "mrsdgl98"
+SIMILAR_ACCOUNT = "ACCOUNT"
+USERNAME = "YOUR USERNAME"
+PASSWORD = "YOUR PASSWORD"
 
 
 class InstaFollower:
